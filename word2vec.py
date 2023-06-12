@@ -1,4 +1,5 @@
 import streamlit as st
+import gensim
 from gensim.models import Word2Vec
 import numpy as np
 
